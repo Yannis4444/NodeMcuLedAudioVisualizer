@@ -7,6 +7,7 @@
  - 2x resistor 100 kΩ
  - 2x capacitor 100nF
  - 1x headphone jack socket
+ - an [audio splitter](aplitting-the-audio)
 
 ## Schematic
 ![schematic](images/schematic.png)
@@ -22,3 +23,10 @@ I would advice to solder everything on to a circuit board.
         </td>
     </tr>
 </table>
+
+## Splitting the Audio
+You will need some kind of audio splitter to listen to the music while visualizing.
+You could just use a separate splitter or add a second headphone jack to the Audio part.
+For the latter you would need to connect GND, left audio and right audio of the input
+as seen in the [schematic section](#schematic) to a second headphone jack.
+Once you have the second jack in place you can use one as the input and one as an output.
