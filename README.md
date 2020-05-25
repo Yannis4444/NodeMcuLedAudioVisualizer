@@ -7,7 +7,7 @@
  - 2x resistor 100 kΩ
  - 2x capacitor 100nF
  - 1x headphone jack socket
- - an [audio splitter](aplitting-the-audio)
+ - an [audio splitter](splitting-the-audio)
 
 ## Schematic
 ![schematic](images/schematic.png)
