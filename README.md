@@ -10,3 +10,16 @@
 
 ## Schematic
 ![schematic](images/schematic.png)
+
+## Build
+I would advice to solder everything on to a circuit board.
+<table>
+    <tr>
+        <td>
+            <img width="250" src="images/board1.png">
+            <img width="250" src="images/board2.png">
+            <img width="250" src="images/board3.png">
+        </td>
+    </tr>
+</table>
+| ![schematic](images/board1.png) | ![schematic](images/board2.png) | ![schematic](images/board3.png) |
