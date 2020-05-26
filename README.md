@@ -24,7 +24,7 @@ I would advice to solder everything on to a circuit board.
     </tr>
 </table>
 
-## Splitting the Audio
+### Splitting the Audio
 You will need some kind of audio splitter to listen to the music while visualizing.
 You could just use a separate splitter or add a second headphone jack to the Audio part.
 For the latter you would need to connect GND, left audio and right audio of the input
