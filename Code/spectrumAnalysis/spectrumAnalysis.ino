@@ -6,7 +6,7 @@
 // the number of samples (must be a power of 2)
 #define SAMPLES 256
 // the number of leds (max: SAMPLES / 2)
-#define  N_LEDS 128
+#define N_LEDS 128
 // The Pin where the data for the led strip is connected
 #define LED_STRIP_PIN 4
 // flash the strip after calibrating the analog reference
