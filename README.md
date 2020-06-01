@@ -32,6 +32,8 @@ as seen in the [schematic section](#schematic) to a second headphone jack.
 Once you have the second jack in place you can use one as the input and one as an output.
 
 ## Running
+You can upload the code to the NodeMCU using the Arduino IDE. See https://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/ for details.
+
 Once the program starts the NodeMCU will start by getting some values from its analog pin to get a reference for the measured voltages.
 On an Arduino Uno or Nano this is not necessary as it comes with an AREF pin used to provide a reference voltage.
 Because of this you should always start the NodeMCU when connected to the playback device without any music playing.
